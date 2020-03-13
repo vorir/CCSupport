@@ -12,4 +12,4 @@ Modify config.json to have your discord token as well as the channel, category a
 
 
 ## Running the bot
-Run the bot using PM2 or another Node process manager to ensure maximum availability.
+Run the index.js file using PM2 or another Node process manager to ensure maximum availability.
