@@ -1,0 +1,10 @@
+{
+    "prefix":"!",
+    "token":"<Discord API Token>",
+    "issueChannel":"<Channel ID for users to report issues into>",
+    "adminLogChannel":"<Channel ID for admin level logs to be exported to upon closeissue>",
+    "moderatorLogChannel":"<Channel ID for moderator level logs to be exported to upon closeissue>",
+    "moderatorRoleID":"<Role ID for Moderators>",
+    "adminRoleID":"<Role ID for Administrators>",
+    "openIssueCategory":"<Parent Category for all open issues to be placed in>"
+}
